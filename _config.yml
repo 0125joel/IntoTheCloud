@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Joël Prins"
-  avatar : "/assets/images/Transparant.jpg"
+  avatar : "/assets/images/Transparant.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
