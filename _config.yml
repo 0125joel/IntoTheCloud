@@ -17,9 +17,8 @@ title: IntoTheCloud
 title_separator: "|"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I write about all Microsoft 365 modern management stuff. In my opinion we need a secure but modern way of working in this fast changing world.
+Products being used are Intune, Microsoft Autopilot, Entra ID, Entra Protection, Exchange online, Microsoft Teams, Azure, Conditionall access, Defender for Office (MDO), DMARC, Windows 11, Windows 10.
 logo: "/assets/images/Transparant.png"
 twitter_username: 0125joel
 github_username: 0125joel
