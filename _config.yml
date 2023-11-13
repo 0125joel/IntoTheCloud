@@ -32,7 +32,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /
 paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: NL
