@@ -24,13 +24,10 @@ github_username: 0125joel
 minimal_mistakes_skin: dark
 search: true
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+#Header image
 header:
   overlay_image: /assets/images/bernd-dittrich-Nf6-e1TO3HY-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 # Build settings
 markdown: kramdown
