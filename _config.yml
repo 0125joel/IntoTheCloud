@@ -16,8 +16,8 @@
 title: IntoTheCloud
 title_separator: "|"
 email:
-description: I write about all Microsoft 365 modern management stuff. In my opinion we need a secure but modern way of working in this fast changing world.
-Products being used are Intune, Microsoft Autopilot, Entra ID, Entra Protection, Exchange online, Microsoft Teams, Azure, Conditionall access, Defender for Office (MDO), DMARC, Windows 11, Windows 10.
+description: "I write about all Microsoft 365 modern management stuff. In my opinion we need a secure but modern way of working in this fast changing world.
+Products being used are Intune, Microsoft Autopilot, Entra ID, Entra Protection, Exchange online, Microsoft Teams, Azure, Conditionall access, Defender for Office (MDO), DMARC, Windows 11, Windows 10."
 logo: "/assets/images/Transparant.png"
 twitter_username: 0125joel
 github_username: 0125joel
