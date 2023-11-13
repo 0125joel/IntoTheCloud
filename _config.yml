@@ -24,10 +24,7 @@ github_username: 0125joel
 minimal_mistakes_skin: dark
 search: true
 
-#Header image
-header:
-  image: /assets/images/bernd-dittrich-Nf6-e1TO3HY-unsplash.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 
 # Build settings
 markdown: kramdown
