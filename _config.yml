@@ -29,10 +29,11 @@ google_site_verification: "G-TREM4D8RS2"
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-universal"
   google:
-    tracking_id          : "G-TREM4D8RS2" # Replace this with your ID, or delete
-    anonymize_ip         : true
+    tracking_id: "G-TREM4D8RS2"
+    anonymize_ip: true
+
 
 
 # Build settings
