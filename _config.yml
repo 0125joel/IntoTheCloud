@@ -91,7 +91,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Center
     values:
       layout: splash
       author_profile: true
