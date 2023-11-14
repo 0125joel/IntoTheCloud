@@ -23,8 +23,16 @@ twitter_username: 0125joel
 github_username: 0125joel
 minimal_mistakes_skin: dark
 search: true
-google_site_verification: G-TREM4D8RS2
 
+# SEO Related
+google_site_verification: "G-TREM4D8RS2"
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-TREM4D8RS2" # Replace this with your ID, or delete
+    anonymize_ip         : true
 
 
 # Build settings
