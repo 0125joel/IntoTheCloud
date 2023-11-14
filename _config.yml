@@ -99,13 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-      .splash-posts {
-  /* Add your styling properties here */
-  background-color: #f0f0f0;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
   # _pages
   - scope:
       path: "_pages"
