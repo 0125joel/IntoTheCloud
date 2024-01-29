@@ -34,8 +34,6 @@ analytics:
     tracking_id: "G-TREM4D8RS2"
     anonymize_ip: true
 
-
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
